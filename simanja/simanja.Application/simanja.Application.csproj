@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="9.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\simanja.Domain.Core\simanja.Domain.Core.csproj" />
+    <ProjectReference Include="..\simanja.Domain\simanja.Domain.csproj" />
+    <ProjectReference Include="..\simanja.Infra.Data\simanja.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>

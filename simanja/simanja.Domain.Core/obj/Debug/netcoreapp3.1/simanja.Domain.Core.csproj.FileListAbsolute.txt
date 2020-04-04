@@ -1,0 +1,8 @@
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Domain.Core\bin\Debug\netcoreapp3.1\simanja.Domain.Core.deps.json
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Domain.Core\bin\Debug\netcoreapp3.1\simanja.Domain.Core.dll
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Domain.Core\bin\Debug\netcoreapp3.1\simanja.Domain.Core.pdb
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Domain.Core\obj\Debug\netcoreapp3.1\simanja.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Domain.Core\obj\Debug\netcoreapp3.1\simanja.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Domain.Core\obj\Debug\netcoreapp3.1\simanja.Domain.Core.AssemblyInfo.cs
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Domain.Core\obj\Debug\netcoreapp3.1\simanja.Domain.Core.dll
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Domain.Core\obj\Debug\netcoreapp3.1\simanja.Domain.Core.pdb

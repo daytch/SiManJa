@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TcqMpv0/Xg/PJK2YpgqoVb7VTjSoo8Fn8C7M2i1jL8bMtOqF8xb5YexiJmfNJhhk4xByBuCKR3BbdFDNIynIsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vanda\\source\\repos\\daytch\\SiManJa\\simanja\\simanja.Domain.Core\\simanja.Domain.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vanda\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\vanda\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
+    "C:\\Users\\vanda\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

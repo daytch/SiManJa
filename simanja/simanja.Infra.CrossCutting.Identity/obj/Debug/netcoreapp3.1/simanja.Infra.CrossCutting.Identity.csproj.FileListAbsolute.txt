@@ -1,0 +1,14 @@
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.CrossCutting.Identity\bin\Debug\netcoreapp3.1\simanja.Infra.CrossCutting.Identity.deps.json
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.CrossCutting.Identity\bin\Debug\netcoreapp3.1\simanja.Infra.CrossCutting.Identity.dll
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.CrossCutting.Identity\bin\Debug\netcoreapp3.1\simanja.Infra.CrossCutting.Identity.pdb
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.CrossCutting.Identity\bin\Debug\netcoreapp3.1\simanja.Domain.Core.dll
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.CrossCutting.Identity\bin\Debug\netcoreapp3.1\simanja.Domain.dll
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.CrossCutting.Identity\bin\Debug\netcoreapp3.1\simanja.Domain.pdb
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.CrossCutting.Identity\bin\Debug\netcoreapp3.1\simanja.Domain.Core.pdb
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.CrossCutting.Identity\obj\Debug\netcoreapp3.1\simanja.Infra.CrossCutting.Identity.csprojAssemblyReference.cache
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.CrossCutting.Identity\obj\Debug\netcoreapp3.1\simanja.Infra.CrossCutting.Identity.csproj.CoreCompileInputs.cache
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.CrossCutting.Identity\obj\Debug\netcoreapp3.1\simanja.Infra.CrossCutting.Identity.AssemblyInfoInputs.cache
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.CrossCutting.Identity\obj\Debug\netcoreapp3.1\simanja.Infra.CrossCutting.Identity.AssemblyInfo.cs
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.CrossCutting.Identity\obj\Debug\netcoreapp3.1\simanja.Infra.CrossCutting.Identity.csproj.CopyComplete
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.CrossCutting.Identity\obj\Debug\netcoreapp3.1\simanja.Infra.CrossCutting.Identity.dll
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.CrossCutting.Identity\obj\Debug\netcoreapp3.1\simanja.Infra.CrossCutting.Identity.pdb

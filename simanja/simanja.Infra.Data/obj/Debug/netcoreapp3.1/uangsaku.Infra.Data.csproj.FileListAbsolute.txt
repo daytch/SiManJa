@@ -1,0 +1,15 @@
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Infra.Data\bin\Debug\netcoreapp3.1\uangsaku.Infra.Data.deps.json
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Infra.Data\bin\Debug\netcoreapp3.1\uangsaku.Infra.Data.runtimeconfig.json
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Infra.Data\bin\Debug\netcoreapp3.1\uangsaku.Infra.Data.runtimeconfig.dev.json
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Infra.Data\bin\Debug\netcoreapp3.1\uangsaku.Infra.Data.dll
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Infra.Data\bin\Debug\netcoreapp3.1\uangsaku.Infra.Data.pdb
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Infra.Data\bin\Debug\netcoreapp3.1\uangsaku.Domain.Core.dll
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Infra.Data\bin\Debug\netcoreapp3.1\uangsaku.Domain.dll
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Infra.Data\bin\Debug\netcoreapp3.1\uangsaku.Domain.pdb
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Infra.Data\bin\Debug\netcoreapp3.1\uangsaku.Domain.Core.pdb
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Infra.Data\obj\Debug\netcoreapp3.1\uangsaku.Infra.Data.csprojAssemblyReference.cache
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Infra.Data\obj\Debug\netcoreapp3.1\uangsaku.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Infra.Data\obj\Debug\netcoreapp3.1\uangsaku.Infra.Data.AssemblyInfo.cs
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Infra.Data\obj\Debug\netcoreapp3.1\uangsaku.Infra.Data.csproj.CopyComplete
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Infra.Data\obj\Debug\netcoreapp3.1\uangsaku.Infra.Data.dll
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Infra.Data\obj\Debug\netcoreapp3.1\uangsaku.Infra.Data.pdb

@@ -1,0 +1,11 @@
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\uangsaku.Infra.CrossCutting.Bus.deps.json
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\uangsaku.Infra.CrossCutting.Bus.dll
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\uangsaku.Infra.CrossCutting.Bus.pdb
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\uangsaku.Domain.Core.dll
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\uangsaku.Domain.Core.pdb
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\uangsaku.Infra.CrossCutting.Bus.csprojAssemblyReference.cache
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\uangsaku.Infra.CrossCutting.Bus.AssemblyInfoInputs.cache
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\uangsaku.Infra.CrossCutting.Bus.AssemblyInfo.cs
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\uangsaku.Infra.CrossCutting.Bus.csproj.CopyComplete
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\uangsaku.Infra.CrossCutting.Bus.dll
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\uangsaku.Infra.CrossCutting.Bus.pdb

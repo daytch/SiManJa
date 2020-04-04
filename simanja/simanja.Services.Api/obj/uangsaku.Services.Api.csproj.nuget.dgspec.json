@@ -1,0 +1,654 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Services.Api\\uangsaku.Services.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Application\\uangsaku.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Application\\uangsaku.Application.csproj",
+        "projectName": "uangsaku.Application",
+        "projectPath": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Application\\uangsaku.Application.csproj",
+        "packagesPath": "C:\\Users\\vanda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vanda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Domain.Core\\uangsaku.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Domain.Core\\uangsaku.Domain.Core.csproj"
+              },
+              "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Domain\\uangsaku.Domain.csproj": {
+                "projectPath": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Domain\\uangsaku.Domain.csproj"
+              },
+              "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Infra.Data\\uangsaku.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Infra.Data\\uangsaku.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Domain.Core\\uangsaku.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Domain.Core\\uangsaku.Domain.Core.csproj",
+        "projectName": "uangsaku.Domain.Core",
+        "projectPath": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Domain.Core\\uangsaku.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\vanda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vanda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Domain\\uangsaku.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Domain\\uangsaku.Domain.csproj",
+        "projectName": "uangsaku.Domain",
+        "projectPath": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Domain\\uangsaku.Domain.csproj",
+        "packagesPath": "C:\\Users\\vanda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vanda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Domain.Core\\uangsaku.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Domain.Core\\uangsaku.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Infra.CrossCutting.Bus\\uangsaku.Infra.CrossCutting.Bus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Infra.CrossCutting.Bus\\uangsaku.Infra.CrossCutting.Bus.csproj",
+        "projectName": "uangsaku.Infra.CrossCutting.Bus",
+        "projectPath": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Infra.CrossCutting.Bus\\uangsaku.Infra.CrossCutting.Bus.csproj",
+        "packagesPath": "C:\\Users\\vanda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Infra.CrossCutting.Bus\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vanda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Domain.Core\\uangsaku.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Domain.Core\\uangsaku.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Infra.CrossCutting.Identity\\uangsaku.Infra.CrossCutting.Identity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Infra.CrossCutting.Identity\\uangsaku.Infra.CrossCutting.Identity.csproj",
+        "projectName": "uangsaku.Infra.CrossCutting.Identity",
+        "projectPath": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Infra.CrossCutting.Identity\\uangsaku.Infra.CrossCutting.Identity.csproj",
+        "packagesPath": "C:\\Users\\vanda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Infra.CrossCutting.Identity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vanda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Domain\\uangsaku.Domain.csproj": {
+                "projectPath": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Domain\\uangsaku.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Infra.CrossCutting.IoC\\uangsaku.Infra.CrossCutting.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Infra.CrossCutting.IoC\\uangsaku.Infra.CrossCutting.IoC.csproj",
+        "projectName": "uangsaku.Infra.CrossCutting.IoC",
+        "projectPath": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Infra.CrossCutting.IoC\\uangsaku.Infra.CrossCutting.IoC.csproj",
+        "packagesPath": "C:\\Users\\vanda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Infra.CrossCutting.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vanda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Application\\uangsaku.Application.csproj": {
+                "projectPath": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Application\\uangsaku.Application.csproj"
+              },
+              "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Infra.CrossCutting.Bus\\uangsaku.Infra.CrossCutting.Bus.csproj": {
+                "projectPath": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Infra.CrossCutting.Bus\\uangsaku.Infra.CrossCutting.Bus.csproj"
+              },
+              "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Infra.CrossCutting.Identity\\uangsaku.Infra.CrossCutting.Identity.csproj": {
+                "projectPath": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Infra.CrossCutting.Identity\\uangsaku.Infra.CrossCutting.Identity.csproj"
+              },
+              "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Infra.Data\\uangsaku.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Infra.Data\\uangsaku.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Infra.Data\\uangsaku.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Infra.Data\\uangsaku.Infra.Data.csproj",
+        "projectName": "uangsaku.Infra.Data",
+        "projectPath": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Infra.Data\\uangsaku.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\vanda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vanda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Domain\\uangsaku.Domain.csproj": {
+                "projectPath": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Domain\\uangsaku.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Services.Api\\uangsaku.Services.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Services.Api\\uangsaku.Services.Api.csproj",
+        "projectName": "uangsaku.Services.Api",
+        "projectPath": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Services.Api\\uangsaku.Services.Api.csproj",
+        "packagesPath": "C:\\Users\\vanda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Services.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vanda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Application\\uangsaku.Application.csproj": {
+                "projectPath": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Application\\uangsaku.Application.csproj"
+              },
+              "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Infra.CrossCutting.Identity\\uangsaku.Infra.CrossCutting.Identity.csproj": {
+                "projectPath": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Infra.CrossCutting.Identity\\uangsaku.Infra.CrossCutting.Identity.csproj"
+              },
+              "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Infra.CrossCutting.IoC\\uangsaku.Infra.CrossCutting.IoC.csproj": {
+                "projectPath": "C:\\Users\\vanda\\source\\repos\\uangsaku\\backend\\uangsaku\\uangsaku.Infra.CrossCutting.IoC\\uangsaku.Infra.CrossCutting.IoC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[5.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

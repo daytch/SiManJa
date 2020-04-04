@@ -1,0 +1,17 @@
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.Data\bin\Debug\netcoreapp3.1\simanja.Infra.Data.deps.json
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.Data\bin\Debug\netcoreapp3.1\simanja.Infra.Data.runtimeconfig.json
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.Data\bin\Debug\netcoreapp3.1\simanja.Infra.Data.runtimeconfig.dev.json
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.Data\bin\Debug\netcoreapp3.1\simanja.Infra.Data.dll
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.Data\bin\Debug\netcoreapp3.1\simanja.Infra.Data.pdb
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.Data\bin\Debug\netcoreapp3.1\simanja.Domain.Core.dll
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.Data\bin\Debug\netcoreapp3.1\simanja.Domain.dll
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.Data\bin\Debug\netcoreapp3.1\simanja.Domain.pdb
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.Data\bin\Debug\netcoreapp3.1\simanja.Domain.Core.pdb
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.Data\obj\Debug\netcoreapp3.1\simanja.Infra.Data.csprojAssemblyReference.cache
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.Data\obj\Debug\netcoreapp3.1\simanja.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.Data\obj\Debug\netcoreapp3.1\simanja.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.Data\obj\Debug\netcoreapp3.1\simanja.Infra.Data.AssemblyInfo.cs
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.Data\obj\Debug\netcoreapp3.1\simanja.Infra.Data.csproj.CopyComplete
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.Data\obj\Debug\netcoreapp3.1\simanja.Infra.Data.dll
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.Data\obj\Debug\netcoreapp3.1\simanja.Infra.Data.pdb
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.Data\obj\Debug\netcoreapp3.1\simanja.Infra.Data.genruntimeconfig.cache

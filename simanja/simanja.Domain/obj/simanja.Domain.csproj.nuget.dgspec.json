@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\vanda\\source\\repos\\daytch\\SiManJa\\simanja\\simanja.Domain\\simanja.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\vanda\\source\\repos\\daytch\\SiManJa\\simanja\\simanja.Domain.Core\\simanja.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vanda\\source\\repos\\daytch\\SiManJa\\simanja\\simanja.Domain.Core\\simanja.Domain.Core.csproj",
+        "projectName": "simanja.Domain.Core",
+        "projectPath": "C:\\Users\\vanda\\source\\repos\\daytch\\SiManJa\\simanja\\simanja.Domain.Core\\simanja.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\vanda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vanda\\source\\repos\\daytch\\SiManJa\\simanja\\simanja.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vanda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\vanda\\source\\repos\\daytch\\SiManJa\\simanja\\simanja.Domain\\simanja.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\vanda\\source\\repos\\daytch\\SiManJa\\simanja\\simanja.Domain\\simanja.Domain.csproj",
+        "projectName": "simanja.Domain",
+        "projectPath": "C:\\Users\\vanda\\source\\repos\\daytch\\SiManJa\\simanja\\simanja.Domain\\simanja.Domain.csproj",
+        "packagesPath": "C:\\Users\\vanda\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vanda\\source\\repos\\daytch\\SiManJa\\simanja\\simanja.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\vanda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\vanda\\source\\repos\\daytch\\SiManJa\\simanja\\simanja.Domain.Core\\simanja.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\vanda\\source\\repos\\daytch\\SiManJa\\simanja\\simanja.Domain.Core\\simanja.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

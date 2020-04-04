@@ -1,0 +1,12 @@
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\simanja.Infra.CrossCutting.Bus.deps.json
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\simanja.Infra.CrossCutting.Bus.dll
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\simanja.Infra.CrossCutting.Bus.pdb
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\simanja.Domain.Core.dll
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\simanja.Domain.Core.pdb
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\simanja.Infra.CrossCutting.Bus.csprojAssemblyReference.cache
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\simanja.Infra.CrossCutting.Bus.csproj.CoreCompileInputs.cache
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\simanja.Infra.CrossCutting.Bus.AssemblyInfoInputs.cache
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\simanja.Infra.CrossCutting.Bus.AssemblyInfo.cs
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\simanja.Infra.CrossCutting.Bus.csproj.CopyComplete
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\simanja.Infra.CrossCutting.Bus.dll
+C:\Users\vanda\source\repos\daytch\SiManJa\simanja\simanja.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\simanja.Infra.CrossCutting.Bus.pdb

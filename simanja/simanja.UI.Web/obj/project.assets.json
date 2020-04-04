@@ -3049,7 +3049,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "C:\\Users\\vanda\\source\\repos\\daytch\\SiManJa\\simanja\\simanja.Domain.Core\\uangsaku.Domain.Core.csproj": "1.0.0"
+          "simanja.Domain.Core": "1.0.0"
         },
         "compile": {
           "bin/placeholder/simanja.Domain.dll": {}
@@ -9661,16 +9661,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1104",
-      "level": "Error",
-      "message": "Unable to find project 'C:\\Users\\vanda\\source\\repos\\daytch\\SiManJa\\simanja\\simanja.Domain.Core\\uangsaku.Domain.Core.csproj'. Check that the project reference is valid and that the project file exists.",
-      "libraryId": "C:\\Users\\vanda\\source\\repos\\daytch\\SiManJa\\simanja\\simanja.Domain.Core\\uangsaku.Domain.Core.csproj",
-      "targetGraphs": [
-        ".NETCoreApp,Version=v3.1"
-      ]
-    }
-  ]
+  }
 }

@@ -166,8 +166,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\vanda\\source\\repos\\daytch\\SiManJa\\simanja\\simanja.Domain.Core\\uangsaku.Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\vanda\\source\\repos\\daytch\\SiManJa\\simanja\\simanja.Domain.Core\\uangsaku.Domain.Core.csproj"
+              "C:\\Users\\vanda\\source\\repos\\daytch\\SiManJa\\simanja\\simanja.Domain.Core\\simanja.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\vanda\\source\\repos\\daytch\\SiManJa\\simanja\\simanja.Domain.Core\\simanja.Domain.Core.csproj"
               }
             }
           }

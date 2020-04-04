@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "teB7AOtGz/D8w6RltKaqaHC4CQrB1SP8HixiQCzbYRxxdzZ6soSAc3CHvAvMyjRzU1olWzrLAexOfrQawSgptw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vanda\\source\\repos\\daytch\\SiManJa\\simanja\\simanja.Infra.CrossCutting.Bus\\simanja.Infra.CrossCutting.Bus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vanda\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\vanda\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
+    "C:\\Users\\vanda\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512"
+  ],
+  "logs": []
+}

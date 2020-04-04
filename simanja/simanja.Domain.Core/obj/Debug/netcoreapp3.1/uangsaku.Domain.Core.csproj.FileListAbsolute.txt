@@ -1,0 +1,8 @@
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Domain.Core\bin\Debug\netcoreapp3.1\uangsaku.Domain.Core.deps.json
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Domain.Core\bin\Debug\netcoreapp3.1\uangsaku.Domain.Core.dll
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Domain.Core\bin\Debug\netcoreapp3.1\uangsaku.Domain.Core.pdb
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Domain.Core\obj\Debug\netcoreapp3.1\uangsaku.Domain.Core.csprojAssemblyReference.cache
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Domain.Core\obj\Debug\netcoreapp3.1\uangsaku.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Domain.Core\obj\Debug\netcoreapp3.1\uangsaku.Domain.Core.AssemblyInfo.cs
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Domain.Core\obj\Debug\netcoreapp3.1\uangsaku.Domain.Core.dll
+C:\Users\vanda\source\repos\uangsaku\backend\uangsaku\uangsaku.Domain.Core\obj\Debug\netcoreapp3.1\uangsaku.Domain.Core.pdb
